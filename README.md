@@ -91,6 +91,14 @@ g++ -o airline_reservation airline_reservation.cpp -lmysqlcppconn
 
 ---
 
+## Screenshots
+![Screenshot 1](./Screenshot/s1.png)
+![Screenshot 2](./Screenshot/s2.png)
+![Screenshot 3](./Screenshot/s3.png)
+![Screenshot 4](./Screenshot/s4.png)
+![Screenshot 5](./Screenshot/s5.png)
+![Screenshot 6](./Screenshot/s6.png)
+
 ## Contributions
 
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
